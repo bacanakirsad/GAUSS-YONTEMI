@@ -1,0 +1,14 @@
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\bin\Debug\net8.0\10x10.exe
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\bin\Debug\net8.0\10x10.deps.json
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\bin\Debug\net8.0\10x10.runtimeconfig.json
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\bin\Debug\net8.0\10x10.dll
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\bin\Debug\net8.0\10x10.pdb
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\10x10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\10x10.AssemblyInfoInputs.cache
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\10x10.AssemblyInfo.cs
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\10x10.csproj.CoreCompileInputs.cache
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\10x10.dll
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\refint\10x10.dll
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\10x10.pdb
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\10x10.genruntimeconfig.cache
+C:\Users\irsad\OneDrive\Masaüstü\4x4\10x10\obj\Debug\net8.0\ref\10x10.dll

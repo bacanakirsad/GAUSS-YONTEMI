@@ -1,0 +1,28 @@
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\bin\Debug\net8.0\4x4matris.exe
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\bin\Debug\net8.0\4x4matris.deps.json
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\bin\Debug\net8.0\4x4matris.runtimeconfig.json
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\bin\Debug\net8.0\4x4matris.dll
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\bin\Debug\net8.0\4x4matris.pdb
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\4x4matris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\4x4matris.AssemblyInfoInputs.cache
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\4x4matris.AssemblyInfo.cs
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\4x4matris.csproj.CoreCompileInputs.cache
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\4x4matris.dll
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\refint\4x4matris.dll
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\4x4matris.pdb
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\4x4matris.genruntimeconfig.cache
+C:\Users\irsad\OneDrive\Masaüstü\4x4\4x4matris\obj\Debug\net8.0\ref\4x4matris.dll
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\bin\Debug\net8.0\4x4matris.exe
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\bin\Debug\net8.0\4x4matris.deps.json
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\bin\Debug\net8.0\4x4matris.runtimeconfig.json
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\bin\Debug\net8.0\4x4matris.dll
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\bin\Debug\net8.0\4x4matris.pdb
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\4x4matris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\4x4matris.AssemblyInfoInputs.cache
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\4x4matris.AssemblyInfo.cs
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\4x4matris.csproj.CoreCompileInputs.cache
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\4x4matris.dll
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\refint\4x4matris.dll
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\4x4matris.pdb
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\4x4matris.genruntimeconfig.cache
+C:\Users\irsad\OneDrive\Masaüstü\GAUSS YONTEMI\4x4matris\obj\Debug\net8.0\ref\4x4matris.dll
